@@ -1,7 +1,7 @@
 # Cardio Good Fitness EDA
 
 <div style="background-color:#e7e7e7; padding: 10px;">
-    <b>Objective</b> - Preliminary Data Analysis. Explore the dataset and and extract basic observations about the data.
+    <b>Objective</b> - Preliminary Data Analysis. Explore a dataset of customer related information for three treadmill units and extract basic observations about the data.
 
 <b>Expectations:</b>
 <ul>
